@@ -1,4 +1,4 @@
-# Nutrition-monitoring
+# Nutrition-monitoring (in progress)
 Daily Caloric Tracking and Personalized Nutrition Assistant
 
 ## Project Overview:
