@@ -27,5 +27,20 @@ Developed an intuitive and user-friendly interface for easy caloric tracking, nu
 Algorithmic Recommendations:
 Utilized algorithms to analyze user data, dietary preferences, and restrictions, generating personalized suggestions for food and recipes.
 
-## Conclusion:
-This project provides a holistic solution for individuals aiming to manage their daily caloric intake and nutritional needs. By incorporating a CICAL database and leveraging advanced algorithms, the platform ensures a personalized and effective approach to nutrition, catering to users with specific dietary requirements.
+## How to contribute
+If you're looking to contribute to the project, here's how you can get started:
+
+Fork the Repository: Start by forking the repository to your GitHub account. This creates a copy of the project that you can modify.
+
+Clone the Repository: After forking, clone the repository to your local machine to start making changes. Use the command:
+
+git clone https://github.com/MelvinDerouck/CineMatch.io.git
+Make your changes, commit and push to your forked repository
+
+Submit a Pull Request
+
+Your contributions are greatly appreciated. Thank you for your support!
+
+## Contact
+Feel free to contact me to discuss on this project and share your feedback.
+You can contact me on my Linkedin, or send me an email at derouck.mel@gmail.com.
