@@ -16,9 +16,6 @@ Tailored food recommendations are provided, taking into account individual dieta
 Recipe Suggestions:
 Users with specific dietary needs, allergies, or intolerances receive customized recipe suggestions to ensure a balanced and safe nutritional intake.
 
-Technologies Used:
-Database (CICAL):
-
 Leveraged a comprehensive database (CICAL) for accurate nutritional information on various foods.
 
 User Interface:
