@@ -27,17 +27,19 @@ Utilized algorithms to analyze user data, dietary preferences, and restrictions,
 ## How to contribute
 If you're looking to contribute to the project, here's how you can get started:
 
-Fork the Repository: Start by forking the repository to your GitHub account. This creates a copy of the project that you can modify.
+1. **Fork the Repository**: Start by forking the repository to your GitHub account. This creates a copy of the project that you can modify.
 
-Clone the Repository: After forking, clone the repository to your local machine to start making changes. Use the command:
-
-git clone https://github.com/MelvinDerouck/Nutrition-monitoring.git
-Make your changes, commit and push to your forked repository
-
-Submit a Pull Request
-
+2. **Clone the Repository**: After forking, clone the repository to your local machine to start making changes. Use the command:
+   ```bash
+   git clone https://github.com/MelvinDerouck/CineMatch.io.git
+   ```
+3. **Make your changes, commit and push to your forked repository**
+   
+4. **Submit a Pull Request** 
+   
 Your contributions are greatly appreciated. Thank you for your support!
 
 ## Contact
 Feel free to contact me to discuss on this project and share your feedback.
-You can contact me on my Linkedin, or send me an email at derouck.mel@gmail.com.
+
+You can contact me on my <a href="https://www.linkedin.com/in/melvin-derouck-524089aa/">Linkedin</a>, or send me an email at <a href="mailto:derouck.mel@gmail.com"> derouck.mel@gmail.com</a>.
