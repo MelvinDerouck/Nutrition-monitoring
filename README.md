@@ -31,7 +31,7 @@ If you're looking to contribute to the project, here's how you can get started:
 
 2. **Clone the Repository**: After forking, clone the repository to your local machine to start making changes. Use the command:
    ```bash
-   git clone https://github.com/MelvinDerouck/CineMatch.io.git
+   git clone https://github.com/MelvinDerouck/Nutrition-monitoring.git
    ```
 3. **Make your changes, commit and push to your forked repository**
    
